@@ -14,3 +14,5 @@ asciinema
 
 ### Install other package
 RUN R -e 'BiocManager::install(ask = F)' && R -e 'BiocManager::install("bioCancer")'
+
+
